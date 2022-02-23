@@ -1,0 +1,183 @@
+/*Variables*/
+
+$colorPrincipal: antiquewhite;
+$colorDeFondo:Black;
+$colorSecundario:rgb(250, 225, 115);
+$colorNegro: black;
+
+
+
+body{
+    background-color: $colorDeFondo;
+    
+    header{
+
+        nav{
+
+            div{
+                padding-top: 0.5%;
+                text-align: center;
+                text-decoration: none;
+                background-color:$colorDeFondo;
+
+                div{
+
+                    div{
+
+                        a{
+                            text-decoration: none;
+                            color: $colorPrincipal;
+                            font-size: 20px;
+
+                            &:hover{
+                                color:$colorSecundario;
+                                font-size: 21px; 
+                            }
+                        }
+                    }
+                }
+
+                h1{
+
+                    a{
+                        text-decoration: none;
+                        color: $colorPrincipal;
+                        font-size: 28px;
+                        list-style: none;
+
+                        &:hover{
+                            color:$colorSecundario;
+                        }
+                    }
+                
+              
+                }
+            }
+        }
+ 
+   }
+
+        main{
+
+                max-width: 100%;
+                max-height: 100%;
+
+
+                h1{
+                    text-decoration: underline 2px;
+                    color: $colorPrincipal;
+                    text-align: center;
+                }
+
+                p{
+                    color: $colorPrincipal;}
+
+                h2{
+                    color: $colorPrincipal;
+
+                }
+
+            div{
+                
+                
+                
+                div{
+                   
+
+                    div{
+                       
+
+                        div{
+
+                            div{
+
+
+                                h2{
+                                    text-align: center;
+                                color:$colorPrincipal;}
+
+                                span{
+                                        text-align: center;
+                                    color:$colorPrincipal;
+                                }
+
+
+
+                            }
+                                   
+                                    
+
+
+                                }
+                                
+                            }
+
+
+                        }
+                    }
+                }
+            }
+
+
+
+
+
+                div{
+                
+                    background-color: $colorDeFondo;
+                    
+                    div{
+                        background-color: $colorDeFondo;
+
+                        div{
+                        
+
+                            div{
+
+                                h5{
+                                    color: $colorPrincipal;
+
+                                    
+                                }
+                                
+
+                                p{
+                                    color: $colorPrincipal;
+                                    
+                                }
+
+                                a{
+                                    align-items: center;
+                                }
+                            }
+                        
+                        }
+                    }
+                }
+
+    
+
+    footer{
+        background-color: $colorPrincipal;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
