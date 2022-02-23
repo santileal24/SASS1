@@ -1,4 +1,6 @@
 /*Variables*/
+*{overflow: hidden;}
+
 body {
   background-color: Black;
 }
