@@ -87,4 +87,10 @@ div div div div a {
 footer {
   background-color: antiquewhite;
 }
+
+
+/*MEDIAS*/
+
+@media and screen(min-width: 480px) {
+  font-size: 70%;}
 /*# sourceMappingURL=style.css.map */
