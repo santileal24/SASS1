@@ -1,4 +1,7 @@
 /*Variables*/
+*{
+  min-width: 500px;}
+
 body {
   background-color: Black;
 }
@@ -11,9 +14,10 @@ body header nav div {
 }
 
 body header nav div div div a {
+  text-align: center;
   text-decoration: none;
   color: antiquewhite;
-  font-size: 20px;
+  font-size: 100%;
 }
 
 body header nav div div div a:hover {
